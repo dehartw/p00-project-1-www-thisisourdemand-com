@@ -32,7 +32,7 @@ Outline the product you're creating:
 
 **Sample image**:
 
-![A sample image to show how to add one to a repo](image/example.png "A sample image. This is the text that appears.")
+![A sample image to show how to add one to a repo](images/example.png "A sample image. This is the text that appears.")
 
 **NOTE**: Your initial design plan may not fully reflect your final product,
 as projects evolve over time.
