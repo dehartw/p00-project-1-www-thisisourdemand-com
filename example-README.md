@@ -52,7 +52,6 @@ accomplishing these results, including any challenges overcome and
 innovations that were not specifically required by the assignment.
 This section should be no more than three paragraphs.
 
-
 ## Instructions
 Explain how to use your product. 
 This section should THOROUGHLY describe its usage (i.e., more than just "Push start").
@@ -85,8 +84,40 @@ online sources, people who have helped you, and any other resources that
 are not solely your own contribution. Lastly, include ALL resources you
 looked at, not just the ones you ended up using directly.
 
+## Final Self-Evaluations
+*You'll complete this part at the end of the project. 
+Assign points to each team member in each category, based on their contribution to the team. 
+The sum of all member's points in each category cannot exceed 10. 
+For example, for Coding, Partner 1 could get 7 points, and Partner 2 gets 3 points. 
+You can't give both people 6 points each though, as the sum exceeds 10.
+
+### Ideation, Brainstorming, Design:
+
+*Partner 1 (replace this with your name): 0-10*
+
+*Partner 2 (replace this with your name): 0-10*
+
+### Code creation: 
+
+*Partner 1 (replace this with your name): 0-10*
+
+*Partner 2 (replace this with your name): 0-10*
+
+### Documentation creation:
+
+*Partner 1 (replace this with your name): 0-10*
+
+*Partner 2 (replace this with your name): 0-10*
+
+### Teamwork & Participation:
+
+*Partner 1 (replace this with your name): 0-10*
+
+*Partner 2 (replace this with your name): 0-10*
+
+
 ---
-**A Note Scott to You**
+**A Note from Scott to You**
 
 While I expect this project to have issues, one
 thing to keep in mind is HAVE FUN with it! Create a product that
