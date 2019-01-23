@@ -15,11 +15,23 @@ increase the light while you are near differnet lamps. the motion sensor dimming
 
 
 ## Initial Design Plan
-*You'll complete this section as part of Milestone 1, and update regularly.*
 
 Outline the product you're creating:
-- List the hardware components you'll be using, and how they interact. 
-  This is an appropriate place for a diagram. An EXCELLENT resource 
+
+Sources:
+Photocell: https://learn.adafruit.com/photocells/using-a-photocell
+Pir sensor: https://howtomechatronics.com/tutorials/arduino/how-pir-sensor-works-and-how-to-use-it-with-arduino/
+Bluetooth HC-05-06: http://www.martyncurrey.com/connecting-2-arduinos-by-bluetooth-using-a-hc-05-and-a-hc-06-pair-bind-and-link/
+Microphone voice recognition: https://www.instructables.com/id/Speech-Recognition-with-Arduino/
+
+Components needed:
+Photocell
+pir sensor
+Bluetooth HC05
+Bluetooth HC06
+Digital Microphone
+
+An EXCELLENT resource 
   for creating diagrams is the [Fritzing website](http://fritzing.org/home/ "Fritzing website")
 - List all of the known parts in the code you'll be creating.
   - Your program must follow good coding standards. 
